@@ -1,0 +1,37 @@
+{
+  "employee_payroll": [
+    {
+      "id": 1,
+      "name": "Jeff Bezos",
+      "gender": "M",
+      "salary": "100000",
+      "startDate": {
+        "year": 2020,
+        "month": 11,
+        "day": 1
+      }
+    },
+    {
+      "name": "Samyak",
+      "gender": "M",
+      "startDate": {
+        "year": 2016,
+        "month": 4,
+        "day": 9
+      },
+      "salary": "1234",
+      "id": 2
+    },
+    {
+      "name": "Manu",
+      "gender": "M",
+      "startDate": {
+        "year": 2017,
+        "month": 4,
+        "day": 9
+      },
+      "salary": "1234",
+      "id": 3
+    }
+  ]
+}
